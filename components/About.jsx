@@ -13,10 +13,13 @@ const About = () => {
           <h2 className="py-4">DE QUIEN SOY</h2>
           <p className="py-2 text-gray-600">
             Soy arquitecta de profesión, pero siempre me ha gustado aprender
-            cosas nuevas y ser autodidacta, he aprendido a ser una fullstack web
-            developer utilizando HTML, CSS, Javascript, and React. He aprendido
-            a escuchar lo que las personas necesitan para que sea plasmado tal a
-            como se lo imaginan.
+            cosas nuevas y ser autodidacta, por lo que siempre quise realiazar
+            yo misma la página web de mi emprendimiento a lo que me llevó a este
+            hermoso camino y aprendizaje a ser una fullstack web developer.
+            Hasta el momento se utilizar HTML, CSS, Javascript, React, Mongo,
+            Node Js, Bootstrap, Tailwind, Firebase. He aprendido a escuchar lo
+            que las personas necesitan para que sea plasmado tal a como se lo
+            imaginan.
           </p>
           <p className="py-2 text-gray-600">
             Inicié en este apasionado mundo en el 2020 cuando empezó la
