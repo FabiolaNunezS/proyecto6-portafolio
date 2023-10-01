@@ -30,10 +30,10 @@ const About = () => {
         </div>
         <div className="w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
           <img
-            src="../public/assets/about.jpg"
+            src="../assets/front.png"
             width="125"
             height="50"
-            className="rounded-xl"
+            className="rounded-xl ml-4"
           />
         </div>
       </div>
