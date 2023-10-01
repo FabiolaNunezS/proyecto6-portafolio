@@ -91,7 +91,7 @@ const Navbar = () => {
               </Link>
             </ul>
             <div className="pt-40">
-              <p className="uppercase trackin-widest text-[#5651e5]">
+              <p className="uppercase trackin-widest text-[#96269e]">
                 Comuniquémosno
               </p>
               <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
