@@ -20,18 +20,26 @@ const Projects = () => {
             title="dashboard"
             backgroundImg={dashboard}
             projectUrl="/dashboard"
+            tech="React, Bootstrap, CSS"
           />
           <ProjectItem
             title="lista"
             backgroundImg={lista}
             projectUrl="/lista"
+            tech="CSS, HTML, JavaScript"
           />
           <ProjectItem
             title="restaurante"
             backgroundImg={restaurante}
             projectUrl="/restaurante"
+            tech="Nodejs, React, Firebase, Bootstrap"
           />
-          <ProjectItem title="spa" backgroundImg={spa} projectUrl="/spa" />
+          <ProjectItem
+            title="spa"
+            backgroundImg={spa}
+            projectUrl="/spa"
+            tech="CSS y HTML"
+          />
         </div>
       </div>
     </div>
