@@ -7,8 +7,8 @@ import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 const Main = () => {
   return (
     <div id="home" className="w-full h-screen text-center">
-      <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex flex-col justify-center items-center">
-        <div className="text-center">
+      <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
+        <div>
           <p className="uppercase text-sm tracking-widest text-gray-600">
             TRABAJEMOS JUNTOS
           </p>
@@ -21,7 +21,7 @@ const Main = () => {
             accesibilidad, todo plasmado en una página para tu negocio,
             utilizando las mejores herramientas y tecnología de la web.
           </p>
-          <div className="flex items-center justify-center max-w-[330px] m-auto py-4">
+          <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a
               href="https://www.linkedin.com/in/fabiola-n-624a25168/"
               target="_blank"
